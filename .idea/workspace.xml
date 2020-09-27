@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ff53555-2280-4d77-95c3-1c1a850e50c9" name="Default Changelist" comment="Task: created README.md" />
+    <list default="true" id="9ff53555-2280-4d77-95c3-1c1a850e50c9" name="Default Changelist" comment="Task: created README.md">
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601228526107</updated>
       <workItem from="1601228527255" duration="2484000" />
+      <workItem from="1601248405919" duration="112000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1601229878410</created>
@@ -120,6 +123,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
