@@ -19,8 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ff53555-2280-4d77-95c3-1c1a850e50c9" name="Default Changelist" comment="Task: created README.md">
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+    <list default="true" id="9ff53555-2280-4d77-95c3-1c1a850e50c9" name="Default Changelist" comment="Task: created about.html">
+      <change afterPath="$PROJECT_DIR$/browserwars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invention.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +39,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1i6WT3YcoZKsk3hnJHbg2RVG6gR" />
@@ -63,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601228526107</updated>
       <workItem from="1601228527255" duration="2484000" />
-      <workItem from="1601248405919" duration="112000" />
+      <workItem from="1601248405919" duration="382000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1601229878410</created>
@@ -107,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601232435231</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Task: created about.html">
+      <created>1601248555857</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601248555857</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,12 +145,14 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Task: created gitignore" />
     <MESSAGE value="Task: created README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: created README.md" />
+    <MESSAGE value="Task: created about.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: created about.html" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601232444450">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2472" y="84" key="Vcs.Push.Dialog.v2" timestamp="1601248558956">
+      <screen x="1920" y="-179" width="1920" height="1080" />
     </state>
+    <state x="2472" y="84" key="Vcs.Push.Dialog.v2/0.0.1280.720/1920.-179.1920.1080@1920.-179.1920.1080" timestamp="1601248558956" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601232444450" />
   </component>
 </project>
