@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ff53555-2280-4d77-95c3-1c1a850e50c9" name="Default Changelist" comment="Task: created about.html">
-      <change afterPath="$PROJECT_DIR$/browserwars.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/invention.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/people.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
-    </list>
+    <list default="true" id="9ff53555-2280-4d77-95c3-1c1a850e50c9" name="Default Changelist" comment="Task: created about.html" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
