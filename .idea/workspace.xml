@@ -23,13 +23,14 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:timeline" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:navbar" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ff53555-2280-4d77-95c3-1c1a850e50c9" name="Default Changelist" comment="task: added images">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9ff53555-2280-4d77-95c3-1c1a850e50c9" name="Default Changelist" comment="bug: fixed navbar">
+      <change beforePath="$PROJECT_DIR$/invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/invention.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/people.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +154,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601253266577</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="bug: fixed navbar">
+      <created>1601260109586</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601260109586</updated>
+    </task>
+    <task id="LOCAL-00011" summary="bug: fixed navbar">
+      <created>1601260148921</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1601260148921</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,13 +205,18 @@
     <MESSAGE value="Task: created about.html" />
     <MESSAGE value="Task: created images folder" />
     <MESSAGE value="Feature: added about page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: added about page" />
+    <MESSAGE value="bug: fixed navbar" />
+    <option name="LAST_COMMIT_MESSAGE" value="bug: fixed navbar" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2626" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601251720536">
       <screen x="1920" y="-179" width="1920" height="1080" />
     </state>
     <state x="2626" y="163" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720/1920.-179.1920.1080@1920.-179.1920.1080" timestamp="1601251720536" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601260091115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1601260091115" />
     <state x="2472" y="84" key="Vcs.Push.Dialog.v2" timestamp="1601248935862">
       <screen x="1920" y="-179" width="1920" height="1080" />
     </state>
