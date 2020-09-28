@@ -16,16 +16,13 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:timeline" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ff53555-2280-4d77-95c3-1c1a850e50c9" name="Default Changelist" comment="Task: created about.html" />
+    <list default="true" id="9ff53555-2280-4d77-95c3-1c1a850e50c9" name="Default Changelist" comment="Task: created about.html">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601248930297</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Feature: added about page">
+      <created>1601253266577</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1601253266577</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +176,8 @@
     <MESSAGE value="Task: created README.md" />
     <MESSAGE value="Task: created about.html" />
     <MESSAGE value="Task: created images folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: created images folder" />
+    <MESSAGE value="Feature: added about page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: added about page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2626" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601251720536">
@@ -184,9 +189,9 @@
     </state>
     <state x="2472" y="84" key="Vcs.Push.Dialog.v2/0.0.1280.720/1920.-179.1920.1080@1920.-179.1920.1080" timestamp="1601248935862" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601232444450" />
-    <state x="2697" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601250152952">
+    <state x="2697" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601253534718">
       <screen x="1920" y="-179" width="1920" height="1080" />
     </state>
-    <state x="2697" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720/1920.-179.1920.1080@1920.-179.1920.1080" timestamp="1601250152952" />
+    <state x="2697" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720/1920.-179.1920.1080@1920.-179.1920.1080" timestamp="1601253534718" />
   </component>
 </project>
