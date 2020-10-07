@@ -1,41 +1,37 @@
-The objective of this assignment is to get you familiarized with how the Internet works. You need to work individually for this assignment. You need to create a website (like one in the History of the Internet assignment) and explain some of the following topics:
+With your partner your need to make a website about the history of the Internet based on the videos in this unit. 
 
- 
+Your website needs a homepage, team page (about you and your partner with a link to linkedin), an about page that describes that this is an assignment for the course, it needs a page for each video in the unit and all of the pages need to be linked to the main menu.  You need to write the text for each page in word, which is approx 1-2 pages double spaced for each video.  You can use bullet points and photos or create a create a timeline graphic, it doesn't need to be all text.  Your need to use Bootstrap and can use the code from class that is here to start: https://github.com/kaw393939/HistoryOfInternet (Links to an external site.)
 
-Domain names and ICANN
-IP Addresses, Packets and Routing
-DNS
-HTTP and HTTPS protocols
-W3C and HTML and CSS
- 
+Do not FORK or CLONE my repo, it is only for reference and yours should look better than mine. 
 
-Assignment Requirements:
-Create an index page with a nice introduction to these topics along with the links to all the other pages.
-Create an ABOUT page and a TEAM page, discussing about this assignment and your team respectively.
-Create one page for each of the topics.
-Make sure to use Bootstrap (Links to an external site.) for your website. Your website should have a navigation bar (Links to an external site.) containing the links to different pages.
-Host this website on Github Pages or AFS
-The README file of the Github repository for this assignment should clearly mention the URL of the website. 
-Each topic should be introduced with the concept/definition, followed by some examples and a section explaining why we use them. 
-Add at least 1 image for each topic and explain them.
-You should have a minimum of 10 feature commits.
- 
+Required Pages:
 
-Reading Materials:
- 
+1.  History Channel - The Invention of the Internet (44:44)
 
-How the Internet Works
-What is the Internet Part 1
-The Internet- Wires, Cables, Wifi Part 2 
-The Internet- IP Addresses and DNS Part 3
-The Internet- Packets, Routing and Reliability Part 4
-The Internet- HTTP and HTML Part 5 
-The Internet- Encryption Public Keys Part 6
-Bootstrap Grid System (Links to an external site.)
-Bootstrap Tutorial (Links to an external site.)
- 
+2. The True Story of the Internet- Browser Wars Part 1 (43:40)
 
- 
+3.  The True Story of the Internet- Internet Search Part 2 (43:19)
 
-Submission
-Put a link of the website hosted on Github Pages or AFS in the Readme file of the project repository and submit the link to this Github repository in Canvas.
+4.  The True Story of the Internet- Dot Com Bubble Part 3 (43:45)
+
+5.  The True Story of the Internet- People Part 4 (43:46)
+
+6.  History of Internet Website
+
+Submission Requirements
+
+1.  At least 20 commits and 9 Branches (Approx 1 branch per page)
+
+2.  Commits labeled Bug, Feature, Task i.e. Feature: New Page, Bug: fixed header, Task: created gitignore
+
+3.  Both partners need to submit
+
+4.  At least 1 picture per page from a legal online source: https://www.pexels.com/ (Links to an external site.) or https://unsplash.com/ (Links to an external site.)
+
+5.  You need about 1-2 pages of text per page about each of the videos, so you are required to submit a word document that includes the text.  You should basically create a mockup of your page in word and then complete it in Bootstrap.
+
+Please Both Partners Need to Submit
+
+1.  Word Document
+
+2.  Link to Website

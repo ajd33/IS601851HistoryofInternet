@@ -23,14 +23,22 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:navbar" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ff53555-2280-4d77-95c3-1c1a850e50c9" name="Default Changelist" comment="bug: fixed navbar">
-      <change beforePath="$PROJECT_DIR$/invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/invention.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/people.html" afterDir="false" />
+    <list default="true" id="9ff53555-2280-4d77-95c3-1c1a850e50c9" name="Default Changelist" comment="Fix: Overwrote repo with other hw by mistake, reverted back to previous state">
+      <change afterPath="$PROJECT_DIR$/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timeLine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dns.html" beforeDir="false" afterPath="$PROJECT_DIR$/browserwars.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domainicann.html" beforeDir="false" afterPath="$PROJECT_DIR$/dot_com.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http.html" beforeDir="false" afterPath="$PROJECT_DIR$/invention.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ip.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3chtmlcss.html" beforeDir="false" afterPath="$PROJECT_DIR$/people.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +55,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="navbar" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -185,7 +193,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="timeline" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -217,15 +225,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1601260091115" />
-    <state x="2472" y="84" key="Vcs.Push.Dialog.v2" timestamp="1601248935862">
-      <screen x="1920" y="-179" width="1920" height="1080" />
+    <state x="412" y="175" key="Vcs.Push.Dialog.v2" timestamp="1602100905912">
+      <screen x="62" y="0" width="1218" height="720" />
     </state>
     <state x="2472" y="84" key="Vcs.Push.Dialog.v2/0.0.1280.720/1920.-179.1920.1080@1920.-179.1920.1080" timestamp="1601248935862" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601232444450" />
-    <state x="777" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601258396906">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="412" y="175" key="Vcs.Push.Dialog.v2/62.0.1218.720/1982.-179.1858.1080@62.0.1218.720" timestamp="1602100905912" />
+    <state x="2734" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602100957464">
+      <screen x="1982" y="-179" width="1858" height="1080" />
     </state>
     <state x="2697" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720/1920.-179.1920.1080@1920.-179.1920.1080" timestamp="1601253534718" />
     <state x="777" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1601258396906" />
+    <state x="2734" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1218.720/1982.-179.1858.1080@1982.-179.1858.1080" timestamp="1602100957464" />
   </component>
 </project>
