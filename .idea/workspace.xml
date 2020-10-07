@@ -29,16 +29,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ff53555-2280-4d77-95c3-1c1a850e50c9" name="Default Changelist" comment="Fix: Overwrote repo with other hw by mistake, reverted back to previous state">
-      <change afterPath="$PROJECT_DIR$/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/timeLine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dns.html" beforeDir="false" afterPath="$PROJECT_DIR$/browserwars.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domainicann.html" beforeDir="false" afterPath="$PROJECT_DIR$/dot_com.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/http.html" beforeDir="false" afterPath="$PROJECT_DIR$/invention.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ip.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/w3chtmlcss.html" beforeDir="false" afterPath="$PROJECT_DIR$/people.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/invention.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601260148921</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Fix: Overwrote repo with other hw by mistake, reverted back to previous state">
+      <created>1602101282257</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1602101282257</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +212,8 @@
     <MESSAGE value="Task: created images folder" />
     <MESSAGE value="Feature: added about page" />
     <MESSAGE value="bug: fixed navbar" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug: fixed navbar" />
+    <MESSAGE value="Fix: Overwrote repo with other hw by mistake, reverted back to previous state" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix: Overwrote repo with other hw by mistake, reverted back to previous state" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2626" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601251720536">
